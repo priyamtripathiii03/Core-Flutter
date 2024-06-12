@@ -13,7 +13,7 @@ void main()
 
    switch(n)
    {
-    case 1: print("insert value");
+    case 1: print("Insert value");
     int a=int.parse(stdin.readLineSync()!);
           l1.add(a);break;
            case 2: print("Delete value");
